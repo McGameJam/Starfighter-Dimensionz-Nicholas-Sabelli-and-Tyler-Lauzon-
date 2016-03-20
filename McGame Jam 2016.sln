@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B9414468-C508-A284-C50E-92EA9FEEBF4C}") = "McGame Jam 2016", "Assembly-CSharp.csproj", "{09784871-ECDA-3AF3-41C0-9E35EBA2556B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09784871-ECDA-3AF3-41C0-9E35EBA2556B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09784871-ECDA-3AF3-41C0-9E35EBA2556B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09784871-ECDA-3AF3-41C0-9E35EBA2556B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09784871-ECDA-3AF3-41C0-9E35EBA2556B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
